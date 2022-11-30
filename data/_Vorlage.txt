@@ -1,0 +1,33 @@
+{
+  "Ort": {
+    "Homepage"       : "https://...",  # String. URL der Website
+    "GeoBreite"      : 48.1,           # Zahl.   Geografische Breite
+    "GeoLaenge"      : 9.1,            # Zahl.   Geografische Länge
+    "WebcamLink"     : "https://..."   # String. URL der Webcam Page
+    "StatusLink"     : "https://..."   # String. URL der Status Page
+    "Telefon"        : [               # Liste von:
+           "07123 / 45678",            # String. Telefonnummer   
+           "07123 / 45679"             # String. Telefonnummer   
+    ],
+    "Mietlift"       : ture,           # Bool.   Kann gemietet werden?
+    "EMail"          : ".@.de"         # String. Kontakt E-Mail Adresse
+
+  },
+  "Infrastruktur": {
+    "Kunstschnee"    : true,           # Bool.   Hat Kunstschnee?
+    "Flutlicht"      : true,           # Bool.   Hat Flutlicht?
+    "Funpark"        : true,           # Bool.   Hat Funpark?
+    "Rodelhang"      : true,           # Bool.   Hat Rodelhang?
+    "Rodellift"      : true,           # Bool.   Hat Rodellift?
+    "Tubing"         : true,           # Bool.   Hat Tubing?
+    "Sommerbetrieb"  : true,           # Bool.   Hat Sommerbetrieb?
+    "Bikepark"       : true,           # Bool.   Hat Bikepark?
+    "Bullcart"       : true,           # Bool.   Hat Bullcart?
+    "Sommerrodelbahn": true            # Bool.   hat Sommerrodelbahn?
+  },
+  "SocialMedia": {
+    "Facebook"       : "https://...",  # String. Facebook Link
+    "Twitter"        : "https://...",  # String. Twitter Link
+    "YouTube"        : "https://..."   # String. YouTubeLink
+  }
+}
