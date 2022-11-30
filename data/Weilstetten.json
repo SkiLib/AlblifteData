@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skiclubweilstetten.de",
+  "GeoBreite": 48.19729,
+  "GeoLaenge": 8.86012,
+  "StatusLink": "http://www.skiclubweilstetten.de",
+  "Telefon": [
+   "07436 / 407"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

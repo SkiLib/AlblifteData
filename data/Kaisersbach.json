@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.rodelzentrum.de/Skilift",
+  "GeoBreite": 48.92398,
+  "GeoLaenge": 9.6468,
+  "StatusLink": "http://www.rodelzentrum.de",
+  "Telefon": [
+   "07181 / 71357"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": true,
+  "Rodellift": true,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsv-hettingen.de/ski/",
+  "GeoBreite": 48.213692646648,
+  "GeoLaenge": 9.22988891601562,
+  "Telefon": [
+   "07574 / 935550"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skilift-Hettingen-112642335515436"
+ }
+}

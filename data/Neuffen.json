@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tbneuffen.de/cms/abteilung/Ski/infoseite/679",
+  "GeoBreite": 48.542946,
+  "GeoLaenge": 9.375991,
+  "Telefon": [
+   "07025 / 7750",
+   " "
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

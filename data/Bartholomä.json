@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.wirtsberg.de",
+  "GeoBreite": 48.74643,
+  "GeoLaenge": 9.99566,
+  "WebcamLink": "http://wirtsberg.de/webcam/",
+  "Telefon": [
+   "07173 / 71114"
+  ],
+  "Mietlift": 1
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "https://de-de.facebook.com/pages/Freemountain-Hausen/412175075537849",
+  "GeoBreite": 48.301181,
+  "GeoLaenge": 9.192519,
+  "Telefon": [
+   "0176 / 97559413"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/pages/Freemountain-Hausen/412175075537849"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skilift-aggenhausen.de/",
+  "GeoBreite": 48.07938,
+  "GeoLaenge": 8.8093,
+  "StatusLink": "https://www.skilift-aggenhausen.de/%C3%B6ffnungszeiten-schneelage/",
+  "Telefon": [
+   "07429 / 554"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/Skilift-Aggenhausen/119307408134198"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skilifte-dottingen.de",
+  "GeoBreite": 48.432475,
+  "GeoLaenge": 9.432739,
+  "WebcamLink": "https://skilifte-dottingen.de/cam-responsiv.php",
+  "StatusLink": "http://www.skilifte-dottingen.de",
+  "Telefon": [
+   "07381 / 5017001"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/Skilift-Dottingen-GbR/167152093323234",
+  "Twitter": "https://twitter.com/SkiDottingen"
+ }
+}

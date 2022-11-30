@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.sc-fridingen.de",
+  "GeoBreite": 48.02004,
+  "GeoLaenge": 8.9377,
+  "WebcamLink": "http://4-host.de/sc-fridingen/webcam-skihang-2/",
+  "StatusLink": "http://www.sc-fridingen.de",
+  "Telefon": [
+   "07463 / 1795"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/skiclub.fridingen"
+ }
+}

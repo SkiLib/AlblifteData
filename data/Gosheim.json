@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "https://www.scgosheim.de/skilift/",
+  "GeoBreite": 48.14145,
+  "GeoLaenge": 8.74718,
+  "Telefon": [
+   "07426 / 3838"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/groups/311273032233137/"
+ }
+}

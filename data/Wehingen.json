@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://www.sc-wehingen.de/html/skilift.html",
+  "GeoBreite": 48.1604,
+  "GeoLaenge": 8.7879,
+  "Telefon": [
+   "07426 / 1456"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

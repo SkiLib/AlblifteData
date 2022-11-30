@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "https://www.tv-hausen-ob-verena.de/turnverein/abteilung-ski/skilift-hausen/",
+  "GeoBreite": 48.04454,
+  "GeoLaenge": 8.71658,
+  "Telefon": [
+   ""
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

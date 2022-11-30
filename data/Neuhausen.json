@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-neuhausen.de",
+  "GeoBreite": 47.9927,
+  "GeoLaenge": 8.935,
+  "StatusLink": "http://www.skilift-neuhausen.de",
+  "Telefon": [
+   "07467 / 767"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": true,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/Skilift-SAV-Neuhausen-ob-Eck/181367688541502?sk=info"
+ }
+}

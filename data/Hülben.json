@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.schiclubhuelben.de/ski-lift-hesel",
+  "GeoBreite": 48.50364,
+  "GeoLaenge": 9.5649,
+  "Telefon": [
+   ""
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/pages/Schiclub-H%C3%BClben/132959493454665"
+ }
+}

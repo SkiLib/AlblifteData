@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsv-beuren.de/abteilungen/ski",
+  "GeoBreite": 48.565102,
+  "GeoLaenge": 9.408462,
+  "Telefon": [
+   "07025 / 2807"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

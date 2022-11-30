@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "none",
+  "GeoBreite": 48.386356,
+  "GeoLaenge": 9.561485,
+  "Telefon": [
+   "07381 / 934264"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

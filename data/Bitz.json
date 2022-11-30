@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "https://www.tv-bitz.de/abteilungen/lift-loipe/",
+  "GeoBreite": 48.2494261998293,
+  "GeoLaenge": 9.09528493881226,
+  "StatusLink": "https://www.tv-bitz.de/abteilungen/lift-loipe/",
+  "Telefon": [
+   "07431 / 55944"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsf-gschwend.de/skizunft/ski.html",
+  "GeoBreite": 48.92699,
+  "GeoLaenge": 9.73938,
+  "Telefon": [
+   "07972 / 5501"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/SkiliftTSFGschwend"
+ }
+}

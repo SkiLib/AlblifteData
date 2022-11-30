@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-salmendingen.de",
+  "GeoBreite": 48.3573469267951,
+  "GeoLaenge": 9.116131067276,
+  "WebcamLink": "http://www.skilift-salmendingen.de/webcam.html",
+  "StatusLink": "http://www.skilift-salmendingen.de",
+  "Telefon": [
+   "07126 / 921727"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

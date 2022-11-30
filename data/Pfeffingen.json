@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://www.wsv-pfeffingen.de",
+  "GeoBreite": 48.253229,
+  "GeoLaenge": 8.963333,
+  "WebcamLink": "https://www.wsv-pfeffingen.de/webcam",
+  "StatusLink": "https://www.wsv-pfeffingen.de",
+  "Telefon": [
+   "07432 / 263347"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/WSV-Pfeffingen-eV/241863652537071"
+ }
+}

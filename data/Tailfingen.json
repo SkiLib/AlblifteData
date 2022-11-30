@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.wsv-tailfingen.de/index.php",
+  "GeoBreite": 48.2539125702878,
+  "GeoLaenge": 9.03080463409424,
+  "WebcamLink": "http://www.wsv-tailfingen.de/index.php/webcam-skilift-albstadt-tailfingen-schwaebische-alb",
+  "StatusLink": "http://www.wsv-tailfingen.de/index.php",
+  "Telefon": [
+   "07432 / 3322"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": true,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/groups/Skilift.Albstadt.Tailfingen/"
+ }
+}

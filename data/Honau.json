@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-traifelberg.de",
+  "GeoBreite": 48.4030989201594,
+  "GeoLaenge": 9.27095353603363,
+  "StatusLink": "http://www.skilift-traifelberg.de",
+  "Telefon": [
+   "07129 / 7117"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": true,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "http://www.facebook.com/pages/Skilift-Traifelberg/277889155577153"
+ }
+}

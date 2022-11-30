@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.albuch-skilift.de",
+  "GeoBreite": 48.7152114985797,
+  "GeoLaenge": 10.1414966583252,
+  "StatusLink": "http://albuch-skilift.de/schnee-und-wetter",
+  "Telefon": [
+   "07321 / 66650"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/albuchskiliftschnaitheim/"
+ }
+}

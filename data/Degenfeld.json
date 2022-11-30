@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://www.sv-gmuend.de/skilift-winterhalde",
+  "GeoBreite": 48.72569,
+  "GeoLaenge": 9.87529,
+  "WebcamLink": "https://www.sv-gmuend.de/skilift-winterhalde/webcam",
+  "StatusLink": "https://www.sv-gmuend.de/skilift-winterhalde/aktuelles-2",
+  "Telefon": [
+   "0176 / 44636029"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/snowpark.degenfeld"
+ }
+}

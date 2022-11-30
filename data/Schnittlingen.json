@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://waldskilift.heimat.eu",
+  "GeoBreite": 48.6744237612181,
+  "GeoLaenge": 9.88233089447022,
+  "StatusLink": "http://waldskilift.heimat.eu",
+  "Telefon": [
+   "01522 / 8815291"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/pages/Waldskilift-Schnittlingen/176316135803589"
+ }
+}

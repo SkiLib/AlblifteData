@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://www.sc-gerstetten.de/index.php/wintersportzentrum-greuth/skilift",
+  "GeoBreite": 48.620868,
+  "GeoLaenge": 10.023243,
+  "StatusLink": "https://www.sc-gerstetten.de/index.php/wintersportzentrum-greuth/skilift",
+  "Telefon": [
+   "07323 / 919288"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/Wintersportzentrum-Greuth/189308424486245"
+ }
+}

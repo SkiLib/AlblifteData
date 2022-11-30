@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "https://passivsport.de/halde/",
+  "GeoBreite": 48.51748,
+  "GeoLaenge": 9.60968,
+  "WebcamLink": "https://passivsport.de/halde/",
+  "StatusLink": "http://www.skilift-halde.de",
+  "Telefon": [
+   "07333 / 6039"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": true,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

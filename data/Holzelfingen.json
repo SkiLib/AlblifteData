@@ -1,0 +1,28 @@
+{
+ "Ort": {
+  "Homepage": "https://www.wintersport-arena.com/",
+  "GeoBreite": 48.4233910659388,
+  "GeoLaenge": 9.29033517837524,
+  "WebcamLink": "https://www.wintersport-arena.com/wintersport-arena-webcam/",
+  "StatusLink": "https://www.wintersport-arena.com/",
+  "Telefon": [
+   "07129 / 4323",
+   "07129 / 5522"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": true,
+  "Rodellift": false,
+  "Tubing": true,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/wintersportarenacom"
+ }
+}

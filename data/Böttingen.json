@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skilift-boettingen.de/",
+  "GeoBreite": 48.098483,
+  "GeoLaenge": 8.809533,
+  "WebcamLink": "https://www.skilift-boettingen.de/index.php/webcam",
+  "StatusLink": "https://www.skilift-boettingen.de/index.php/maktuelles1",
+  "Telefon": [
+   "7429 / 539086"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/pages/Skilift-B%C3%B6ttingen/112636298802429"
+ }
+}

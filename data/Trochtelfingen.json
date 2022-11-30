@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.ski-trochtelfingen.de",
+  "GeoBreite": 48.29945,
+  "GeoLaenge": 9.23566,
+  "StatusLink": "http://www.ski-trochtelfingen.de",
+  "Telefon": [
+   "0173 / 7079050"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/SkiliftHennenstein/"
+ }
+}

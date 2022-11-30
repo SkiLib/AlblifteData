@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://www.wsca.de/wsca/skilift",
+  "GeoBreite": 48.67505,
+  "GeoLaenge": 9.98458,
+  "Telefon": [
+   "0160 / 4486214"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

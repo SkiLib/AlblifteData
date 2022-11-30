@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-grosserlach.de/winter.html",
+  "GeoBreite": 49.051026,
+  "GeoLaenge": 9.51836,
+  "StatusLink": "http://www.skilift-grosserlach.de",
+  "Telefon": [
+   "07025 / 7750",
+   " "
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": true
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/SkiliftGrosserlach"
+ }
+}

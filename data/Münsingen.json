@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://svauingen.de/skilift-muensingen/",
+  "GeoBreite": 48.39812,
+  "GeoLaenge": 9.49115,
+  "StatusLink": "https://svauingen.de/skilift-muensingen/",
+  "Telefon": [
+   "07381 / 2900"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/svauingen/"
+ }
+}

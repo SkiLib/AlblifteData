@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skiclub-neufra.de/html/liftbetrieb.html",
+  "GeoBreite": 48.24911,
+  "GeoLaenge": 9.1812,
+  "Telefon": [
+   "07574 / 3489"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skiclub-Neufra-1971-eV-1161574547271458/"
+ }
+}

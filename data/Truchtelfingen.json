@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.sc-truchtelfingen.de",
+  "GeoBreite": 48.23769,
+  "GeoLaenge": 9.01703,
+  "StatusLink": "http://www.albweiss.de/Im-Schnee/Lifte2/Schneebericht",
+  "Telefon": [
+   "0173 / 7568581"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/SkiclubTruchtelfingen"
+ }
+}

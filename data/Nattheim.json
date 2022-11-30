@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsg-nattheim.de/wp/abteilung/ski/",
+  "GeoBreite": 48.70783,
+  "GeoLaenge": 10.23082,
+  "StatusLink": "http://www.tsg-nattheim.de/wp/ski-liftanlagen-und-loipe/",
+  "Telefon": [
+   "07321 / 71824"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

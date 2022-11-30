@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-beiningen.de",
+  "GeoBreite": 48.3797345909524,
+  "GeoLaenge": 9.81591403484345,
+  "StatusLink": "http://www.skilift-beiningen.de",
+  "Telefon": [
+   "07344 / 6659"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "http://www.facebook.com/skiliftbeiningen"
+ }
+}

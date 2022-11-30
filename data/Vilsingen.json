@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skiclub-vilsingen.de",
+  "GeoBreite": 48.0609,
+  "GeoLaenge": 9.1415,
+  "Telefon": [
+   "07571 / 6852269"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/Skiclub-Vilsingen-eV/117075805133029"
+ }
+}

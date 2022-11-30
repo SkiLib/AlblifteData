@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-beiwald.de",
+  "GeoBreite": 48.447166,
+  "GeoLaenge": 9.40031,
+  "StatusLink": "http://www.skilift-beiwald.de",
+  "Telefon": [
+   "07122 / 3566"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

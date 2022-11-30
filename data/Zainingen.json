@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.salzwinkel.de",
+  "GeoBreite": 48.489235730291,
+  "GeoLaenge": 9.58160161972046,
+  "WebcamLink": "http://www.salzwinkel.de/index.php/wetter/webcam",
+  "StatusLink": "http://www.salzwinkel.de",
+  "Telefon": [
+   "07333 / 5212"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/salzwinkelsnowpark/"
+ }
+}

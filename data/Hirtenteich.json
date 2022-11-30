@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://www.sport-boerse-aalen.de/skilifte.html",
+  "GeoBreite": 48.78642,
+  "GeoLaenge": 9.9849,
+  "StatusLink": "https://www.sport-boerse-aalen.de/skilifte/oeffnungszeiten.html",
+  "Telefon": [
+   "07365 / 5830",
+   "07361 / 44448"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": true,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/skizentrumhirtenteich/"
+ }
+}

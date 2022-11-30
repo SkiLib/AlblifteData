@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://skiclub-muehlheim.de/",
+  "GeoBreite": 48.0151,
+  "GeoLaenge": 8.8962,
+  "StatusLink": "http://www.skiclub-muehlheim.de",
+  "Telefon": [
+   "07463 / 1222",
+   "07463 / 626"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skiclub-M%C3%BChlheim-eV-1517158168537428/"
+ }
+}

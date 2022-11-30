@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-genkingen.de/aktuell.html",
+  "GeoBreite": 48.40852,
+  "GeoLaenge": 9.17085,
+  "WebcamLink": "http://www.skilift-genkingen.de/webcam.html",
+  "StatusLink": "http://www.skilift-genkingen.de/aktuell.html",
+  "Telefon": [
+   "07128 / 520"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": true,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

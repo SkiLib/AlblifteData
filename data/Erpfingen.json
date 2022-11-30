@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.sommerbob.de/sommerbobbahn/wintersport.html",
+  "GeoBreite": 48.35457,
+  "GeoLaenge": 9.17502,
+  "StatusLink": "http://www.sommerbob.de/sommerbobbahn/wintersport.html",
+  "Telefon": [
+   "07128 / 2056"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/BobbahnErpfingen"
+ }
+}

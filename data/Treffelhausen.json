@@ -1,0 +1,28 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skilifte-treffelhausen.de/",
+  "GeoBreite": 48.699805433181,
+  "GeoLaenge": 9.9057948589325,
+  "WebcamLink": "https://www.skilifte-treffelhausen.de/",
+  "StatusLink": "https://www.skilifte-treffelhausen.de/pistenberichte/",
+  "Telefon": [
+   "07332 / 6108",
+   "07332 / 5421"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": true,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/SkilifteTreffelhausen"
+ }
+}

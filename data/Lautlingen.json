@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsv-lautlingen.de/abteilungen/wintersport/",
+  "GeoBreite": 48.21518,
+  "GeoLaenge": 8.9597,
+  "StatusLink": "http://www.albweiss.de/Im-Schnee/Lifte2/Schneebericht",
+  "Telefon": [
+   "07432 / 3307"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/TsvLautlingen"
+ }
+}

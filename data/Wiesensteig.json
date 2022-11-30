@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilifte-wiesensteig.de",
+  "GeoBreite": 48.5778209423064,
+  "GeoLaenge": 9.6170711517334,
+  "WebcamLink": "http://www.skilifte-wiesensteig.de/index.php?main=wetter_webcam&nav=navigation&sub_nav=4",
+  "StatusLink": "http://www.skilifte-wiesensteig.de/schneebericht/",
+  "Telefon": [
+   "07335 / 6310"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

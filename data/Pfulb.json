@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "https://www.bewegungszentrumpfulb.de/begeisterung/",
+  "GeoBreite": 48.5298212963715,
+  "GeoLaenge": 9.53690528869629,
+  "StatusLink": "https://www.bewegungszentrumpfulb.de",
+  "Telefon": [
+   "07026 / 3763394 (Pfulb-Hütte mit AB) ; 07026 / 3710999 (Pfulb-Büro ohne AB)"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": true,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

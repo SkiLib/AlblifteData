@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.sc-onstmettingen.de",
+  "GeoBreite": 48.3017,
+  "GeoLaenge": 8.98681,
+  "WebcamLink": "http://5203ecb8319bc.click2stream.com",
+  "StatusLink": "http://www.sc-onstmettingen.de",
+  "Telefon": [
+   "07432 / 220537"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

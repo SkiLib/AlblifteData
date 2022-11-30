@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://www.bopfingen.de/site/Bopfingen/node/94135/Lde",
+  "GeoBreite": 48.85311,
+  "GeoLaenge": 10.34066,
+  "Telefon": [
+   "07362 / 3797"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://www.snow-and-fun.de/index.php/skilift",
+  "GeoBreite": 49.00282,
+  "GeoLaenge": 10.04223,
+  "StatusLink": "https://www.snow-and-fun.de/index.php/skilift",
+  "Telefon": [
+   "0172 / 1354984"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/sfhohenberg/"
+ }
+}

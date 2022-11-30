@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.wsv-winterlingen.de",
+  "GeoBreite": 48.1668,
+  "GeoLaenge": 9.11732,
+  "WebcamLink": "http://www.wsv-winterlingen.de",
+  "StatusLink": "http://www.wsv-winterlingen.de",
+  "Telefon": [
+   "07434 / 2122"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/WSV-Winterlingen/320395944649455"
+ }
+}

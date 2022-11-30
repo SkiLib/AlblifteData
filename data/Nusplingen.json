@@ -1,0 +1,28 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsv-nusplingen.de/index.php/de/ski/skilift-skihuette",
+  "GeoBreite": 48.118832,
+  "GeoLaenge": 8.935684,
+  "WebcamLink": " ",
+  "StatusLink": " ",
+  "Telefon": [
+   "07429 / 1558",
+   " "
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/pages/TSV-Nusplingen-Abt-Ski/446426882070725?fref=ts"
+ }
+}

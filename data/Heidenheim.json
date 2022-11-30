@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "https://www.bergwacht-heidenheim.de/index.php/ski-lift",
+  "GeoBreite": 48.6773888348172,
+  "GeoLaenge": 10.1158332824707,
+  "WebcamLink": "https://www.bergwacht-heidenheim.de/index.php/ski-lift",
+  "StatusLink": "http://www.bergwacht-heidenheim.de/index.php/ski-lift",
+  "Telefon": [
+   "07321 / 45874"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": true,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-ochsenwang.de",
+  "GeoBreite": 48.5686,
+  "GeoLaenge": 9.52819,
+  "StatusLink": "http://www.skilift-ochsenwang.de",
+  "Telefon": [
+   "07023 / 72034"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/skiliftochsenwang/"
+ }
+}

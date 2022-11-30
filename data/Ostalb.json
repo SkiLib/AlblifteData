@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.aalen.de/ostalb-skilifte-aalen.5866.25.htm",
+  "GeoBreite": 48.8204142257646,
+  "GeoLaenge": 10.0790762901306,
+  "StatusLink": "http://www.aalen.de/ostalb-skilifte-aalen.5866.25.htm",
+  "Telefon": [
+   "07361 / 42210"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/OstalbSkilifte"
+ }
+}

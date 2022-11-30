@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://skizunft-donzdorf.de/skilift",
+  "GeoBreite": 48.69388,
+  "GeoLaenge": 9.82589,
+  "StatusLink": "https://www.facebook.com/SkiliftDonzdorf/",
+  "Telefon": [
+   "07162 / 24648"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/SkiliftDonzdorf/"
+ }
+}

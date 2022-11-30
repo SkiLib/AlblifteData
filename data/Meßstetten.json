@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skiverein.de/",
+  "GeoBreite": 48.1845,
+  "GeoLaenge": 8.9517,
+  "StatusLink": "https://www.skiverein.de/",
+  "Telefon": [
+   "07431 / 61323"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Langlaeufer/"
+ }
+}

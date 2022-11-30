@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://skilift-weiler.de.to",
+  "GeoBreite": 48.44577,
+  "GeoLaenge": 8.93053,
+  "Telefon": [
+   "07472 / 5198"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "https://www.facebook.com/Skilift-Witthoh-501619613688897/",
+  "GeoBreite": 47.93614,
+  "GeoLaenge": 8.83077,
+  "Telefon": [
+   "074 / 615733",
+   "0171 / 6424777"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skilift-Witthoh-501619613688897/",
+  "Feed": "http://skilift-witthoh.de/?feed=rss2"
+ }
+}

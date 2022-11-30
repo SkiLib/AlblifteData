@@ -1,0 +1,27 @@
+{
+ "Ort": {
+  "Homepage": "http://www.wintersportvereinebingen.de/skilift.html",
+  "GeoBreite": 48.2082017620591,
+  "GeoLaenge": 8.99357557296753,
+  "WebcamLink": "http://www.wintersportvereinebingen.de/",
+  "StatusLink": "http://www.wintersportvereinebingen.de",
+  "Telefon": [
+   "07431 / 72564"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": true,
+  "Flutlicht": true,
+  "Funpark": true,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://de-de.facebook.com/wintersportverein"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-engstingen.de",
+  "GeoBreite": 48.3923816567289,
+  "GeoLaenge": 9.31522607803345,
+  "StatusLink": "http://www.skilift-engstingen.de",
+  "Telefon": [
+   "07129 / 3910",
+   "07129 / 3595"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

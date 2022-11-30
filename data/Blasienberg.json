@@ -1,0 +1,23 @@
+{
+ "Ort": {
+  "Homepage": "http://www.ries-ostalb.de/index.php?id=346",
+  "GeoBreite": 48.87625637,
+  "GeoLaenge": 10.38984516,
+  "Telefon": [
+   "07362 / 95690 0"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "http://www.tsgv-waldstetten-skiteam.de/wintersportpark.html",
+  "GeoBreite": 48.73026,
+  "GeoLaenge": 9.82786,
+  "StatusLink": "https://www.facebook.com/Skiteam-Waldstetten-188498661246015/",
+  "Telefon": [
+   "07171 / 49284"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skiteam-Waldstetten-188498661246015/"
+ }
+}

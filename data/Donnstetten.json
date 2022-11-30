@@ -1,0 +1,25 @@
+{
+ "Ort": {
+  "Homepage": "https://www.skilift-donnstetten.de/",
+  "GeoBreite": 48.5143514390874,
+  "GeoLaenge": 9.56026196479797,
+  "WebcamLink": "https://skilift-donnstetten.de/webcam/webcam.php",
+  "StatusLink": "https://www.skilift-donnstetten.de/",
+  "Telefon": [
+   "07382 / 609"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": true,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}

@@ -1,0 +1,26 @@
+{
+ "Ort": {
+  "Homepage": "https://skilift-burladingen.de/winterbetrieb",
+  "GeoBreite": 48.289703701674,
+  "GeoLaenge": 9.09661531448364,
+  "StatusLink": "https://www.facebook.com/Skilift-Burladingen-1625638694331016/",
+  "Telefon": [
+   "0176 / 70214913"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": false,
+  "Funpark": false,
+  "Rodelhang": false,
+  "Rodellift": false,
+  "Tubing": false,
+  "Sommerbetrieb": true,
+  "Bikepark": true,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {
+  "Facebook": "https://www.facebook.com/Skilift-Burladingen-1625638694331016/"
+ }
+}

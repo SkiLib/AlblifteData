@@ -1,0 +1,24 @@
+{
+ "Ort": {
+  "Homepage": "http://www.skilift-laichingen.de/",
+  "GeoBreite": 48.4815485335858,
+  "GeoLaenge": 9.65918183326721,
+  "StatusLink": "http://www.skilift-laichingen.de",
+  "Telefon": [
+   "07333 / 6430"
+  ]
+ },
+ "Infrastruktur": {
+  "Kunstschnee": false,
+  "Flutlicht": true,
+  "Funpark": false,
+  "Rodelhang": true,
+  "Rodellift": true,
+  "Tubing": false,
+  "Sommerbetrieb": false,
+  "Bikepark": false,
+  "Bullcart": false,
+  "Sommerrodelbahn": false
+ },
+ "SocialMedia": {}
+}
